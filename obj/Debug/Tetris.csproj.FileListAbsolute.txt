@@ -1,0 +1,7 @@
+D:\c#\Day17\Tetris\bin\Debug\Tetris.exe.config
+D:\c#\Day17\Tetris\bin\Debug\Tetris.exe
+D:\c#\Day17\Tetris\bin\Debug\Tetris.pdb
+D:\c#\Day17\Tetris\obj\Debug\Tetris.csproj.CoreCompileInputs.cache
+D:\c#\Day17\Tetris\obj\Debug\Tetris.exe
+D:\c#\Day17\Tetris\obj\Debug\Tetris.pdb
+D:\c#\Day17\Tetris\obj\Debug\Tetris.csprojAssemblyReference.cache
